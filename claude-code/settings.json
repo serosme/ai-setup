@@ -1,0 +1,11 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.deepseek.com/anthropic",
+    "ANTHROPIC_AUTH_TOKEN": "",
+    "ANTHROPIC_MODEL": "deepseek-chat"
+  },
+  "permissions": {
+    "defaultMode": "plan"
+  },
+  "alwaysThinkingEnabled": false
+}
